@@ -3,8 +3,6 @@
 <h3 align="center">Logical and result driven full stack web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.marketingsoftware.com.au/wp-content/uploads/2019/08/Vector-woman-table.png"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saarah123&label=Profile%20views&color=0e75b6&style=flat" alt="saarah123" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@sakshirai727](https://medium.com/@sakshirai727)
