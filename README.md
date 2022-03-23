@@ -1,6 +1,6 @@
 [![Sakshi Rai , I'm a Full Stack Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Sakshi%20Rai%20)](https://sakshirai.com)
 <h1 align="center">Hi 👋, I'm Sakshi Rai</h1>
-<h3 align="center">Logical and result driven full stack web developer.</h3>
+<h3 align="center"> Dedicated and efficient Full stack web developer with the knowledge in HTML , CSS & MERN.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.marketingsoftware.com.au/wp-content/uploads/2019/08/Vector-woman-table.png"
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
