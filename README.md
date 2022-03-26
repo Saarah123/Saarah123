@@ -1,26 +1,62 @@
-[![Sakshi Rai , I'm a Full Stack Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Sakshi%20Rai%20)](https://sakshirai.com)
-<h1 align="center">Hi 👋, I'm Sakshi Rai</h1>
-<h3 align="center"> Dedicated and efficient Full stack web developer with the knowledge in HTML , CSS & MERN.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.marketingsoftware.com.au/wp-content/uploads/2019/08/Vector-woman-table.png"
+<h1 align="center">Hi 👋, I'm Sakshi Rai  <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px"</h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+##  🙋‍♂️ Who Am I?
+<h3 >I'm a passionate Full Stack Web Developer from India.</h3>
+<p>I'm enthusiastic about learning new technologies and also solving problems in mathematics to solving problems in software engineering,I have developed excellent problem-solving skill that is necessary to solve complex problems.This skill also help me to solve Data structure and algorithms problems.</p>
 
-- 📝 I regularly write articles on [https://medium.com/@sakshirai727](https://medium.com/@sakshirai727)
+ - 🌱 I’m currently learning *MERN Stack*
+- 👯 I’m looking to collaborate on *OpenSource Projects*
+<!-- - 🌱 I’m currently learning various new technologies. -->
+ - 👨‍💻 All of my projects are available at [My Portfolio](https://sakshi-rai.netlify.app/#/ )
+<!--  - 📫 How to reach me *sakshirai727@gmail.com* -->
+- 💬 Ask me about anything, I am happy to help;
 
-- 📫 How to reach me **sakshirai727@gmail.com**
+  ## 🚀 Languages and Tools:
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jQ22bbkgkhNno_kPBf-ZFdy_66VqHymc/view?usp=sharing](https://drive.google.com/file/d/1jQ22bbkgkhNno_kPBf-ZFdy_66VqHymc/view?usp=sharing)
+<!-- <p align="left"> 
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
+   <img src="https://img.icons8.com/color/48/000000/git.png"/> 
+  
+</p> -->
+ <p align="center" >
+  <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sakshi-rai-2b983a1ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi rai" height="30" width="40" /></a>
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
+<p align="center"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashifw11&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+       
 </p>
+ 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## 📊 My Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saarah123&show_icons=true&locale=en&layout=compact" alt="saarah123" /></p>
+  <br/>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saarah123&show_icons=true&locale=en&theme=highcontrast" alt="Abhijeet9242" /></p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saarah123&&theme=highcontrast" alt="Saarah123" /></p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saarah123&show_icons=true&locale=en" alt="saarah123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saarah123&" alt="saarah123" /></p>
+<br/>
+<br/>
+<img alt="Sakshi Rai's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sakshifw11&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+<br/>
+<br/>
+
+## Contact Me ☎️
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/sakshi-rai-2b983a1ab "><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ * Mail me on sakshirai727@gmail.com
+
+</p>
